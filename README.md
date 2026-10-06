@@ -10,7 +10,7 @@
 
 **Windows 10 / 11 · x64 · Версия 1.27**
 
-[**Скачать Aniteka**](https://github.com/sdukaev58-tech/ANITEKA/releases/latest) · [Что нового](CHANGELOG.md) · [Сообщить об ошибке](https://github.com/sdukaev58-tech/ANITEKA/issues/new)
+[**Скачать Aniteka**](https://github.com/sdukaev58-tech/ANITEKA/releases/latest) · [Журнал версий](CHANGELOG.md) · [Сообщить об ошибке](https://github.com/sdukaev58-tech/ANITEKA/issues/new)
 
 </div>
 
